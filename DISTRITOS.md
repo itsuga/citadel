@@ -32,6 +32,17 @@ Rojos
 
 Púrpuras
 --------
- Tesoro Imperial | Patio de los Milagros | Torreón | Faro | Polvorín | Museo | Hospicio | Campanario | Factoría | Cantera | Sala de Mapas | Fuente de los Deseos | Observatorio | Laboratorio | Fábrica | Cementerio | Biblioteca | Escuela de Magia | Sala de Baile | Parque	| Hospital | Gran Muralla | Sala del Trono | Puerta Dragón | Universidad
------------------|-----------------------|---------|------|----------|-------|----------|------------|----------|---------|---------------|----------------------|--------------|-------------|---------|------------|------------|------------------|---------------|--------|----------|--------------|----------------|---------------|-------------
- 1               | 1                     | 1       | 1    | 1        | 1     | 1        | 1          | 1        | 1       | 1             | 1                    | 1            | 1           | 1       | 1          | 1          | 1                | 1             | 1      | 1        | 1            | 1              | 1             | 1
+ Tesoro Imperial | Patio de los Milagros | Torreón | Faro | Polvorín | Museo | Hospicio | Campanario | Factoría 
+-----------------|-----------------------|---------|------|----------|-------|----------|------------|----------
+ 1               | 1                     | 1       | 1    | 1        | 1     | 1        | 1          | 1                     
+
+
+ Cantera | Sala de Mapas | Fuente de los Deseos | Observatorio | Laboratorio | Fábrica | Cementerio | Biblioteca 
+---------|---------------|----------------------|--------------|-------------|---------|------------|------------
+ 1       | 1             | 1                    | 1            | 1           | 1       | 1          | 1           
+
+
+ Escuela de Magia | Sala de Baile | Parque | Hospital | Gran Muralla | Sala del Trono | Puerta Dragón | Universidad
+------------------|---------------|--------|----------|--------------|----------------|---------------|-------------
+ 1                | 1             | 1      | 1        | 1            | 1              | 1             | 1
+ 
