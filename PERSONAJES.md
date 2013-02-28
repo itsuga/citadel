@@ -3,17 +3,17 @@ Personajes
 
 Esta es la lista de Personajes.
 
-Básicos | Extendidos
---------|-----------
-[Asesino](#asesino)  |	[Bruja](#bruja)
-[Ladrón](#ladron) | Recaudador
-[Mago](#mago) | Hechicero
-[Rey](#rey)	|	Emperador
-[Obispo](#obispo) | 	Abad
-[Mercader](#mercader) | Alquimista
-[Arquitecto](#arquitecto) | Navegante
-[Condotiero](#condotiero) | Diplomático
-Reina | Artista
+   | Básicos                   |  Extendidos
+---|---------------------------|------------------------------
+ 1 | [Asesino](#asesino)       | [Bruja](#bruja)
+ 2 | [Ladrón](#ladron)         | [Recaudador](#recaudador)
+ 3 | [Mago](#mago)             | [Hechicero](#hechizero) 
+ 4 | [Rey](#rey)	            | [Emperador](#emperador)
+ 5 | [Obispo](#obispo)         | [Abad](#abad)
+ 6 | [Mercader](#mercader)     | [Alquimista](#abad)
+ 7 | [Arquitecto](#arquitecto) | [Navegante](#navegante)
+ 8 | [Condotiero](#condotiero) | [Diplomático](#diplomatico)
+ 9 | [Reina](#reina)           | [Artista](#artista)
 
 
 Personajes Básicos
