@@ -101,7 +101,7 @@ En tu turno, tu debes primero hacer una acción, luego puedes construir una cart
       + No puedes construir un Distrito con el mismo nombre que otro que ya tengas en juego.
 
 Cada Personaje tiene una habilidad especial. 
-Puedes usar su habilidad una vez durante tu turno (las habilidades especiales están indicadas en la [carta del Personaje](cartas) y ampliadas en las reglas, familiarízate con ellas antes de jugar).
+Puedes usar su habilidad una vez durante tu turno (las habilidades especiales están indicadas en la [carta del Personaje](PERSONAJES.md) y ampliadas en las reglas, familiarízate con ellas antes de jugar).
 
 
 ### Paso cuatro: Fin de la Ronda
