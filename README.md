@@ -13,7 +13,7 @@ El juego acaba después de que un jugador construya ocho Distritos, y los jugado
 El jugador con más puntos gana.
 
 
-Cartas de Distritos
+[Cartas de Distritos](DISTRITOS.md)
 -------------------------
 
 Estas cartas representan los distintos Distritos que puedes añadir a tu ciudad. 
@@ -23,15 +23,15 @@ Estas cartas representan los distintos Distritos que puedes añadir a tu ciudad.
 - Cada carta de Distrito tiene además un color en la esquina inferior izquierda, que te dice que tipo de Distrito es:
 
 Color	 | Tipo
--------|-------
-Amarillo | Noble (proporciona ingresos al Rey y Emperador)
-Azul | Eclesiástico (proporciona ingresos al Obispo y Abad)
-Verde	| Comercial (proporciona ingresos al Mercader)
-Rojo | Militar (proporciona ingresos al Condotiero y Diplomático)
-Púrpura	| Especial (proporciona beneficios especiales, indicados en la carta)
+-----------|-------
+Amarillo   | Noble (proporciona ingresos al Rey y Emperador)
+Azul       | Eclesiástico (proporciona ingresos al Obispo y Abad)
+Verde      | Comercial (proporciona ingresos al Mercader)
+Rojo       | Militar (proporciona ingresos al Condotiero y Diplomático)
+Púrpura    | Especial (proporciona beneficios especiales, indicados en la carta)
 
 
-Cartas de Personajes
+[Cartas de Personajes](PERSONAJES.md)
 --------------------
 
 Estas cartas representan los líderes de las ciudades de los jugadores. Hay 18 personajes en el juego:
