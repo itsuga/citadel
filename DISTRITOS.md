@@ -39,26 +39,31 @@ Rojos
 [Condotiero][8]  | Atalaya | Prisión | Cuartel | Fortaleza
 -----------------|---------|---------|---------|----------
 pts.             | 1       | 2       | 3       | 5
-qty              | 3       | 3       | 3       | 3
+qty.              | 3       | 3       | 3       | 3
 
 
 Púrpuras
 --------
- Tesoro Imperial | Patio de los Milagros | Torreón | Faro | Polvorín | Museo | Hospicio | Campanario | Factoría 
------------------|-----------------------|---------|------|----------|-------|----------|------------|----------
- 1               | 1                     | 1       | 1    | 1        | 1     | 1        | 1          | 1                     
+     | Tesoro Imperial | Patio de los Milagros | Torreón | Faro | Polvorín | Museo | Hospicio | Campanario | Factoría 
+-----|-----------------|-----------------------|---------|------|----------|-------|----------|------------|----------
+pts. | 4               | 2                     | 3       | 3    | 3        | 4     | 4        | 5
+qty. | 1               | 1                     | 1       | 1    | 1        | 1     | 1        | 1          | 1                     
 
 
- Cantera | Sala de Mapas | Fuente de los Deseos | Observatorio | Laboratorio | Fábrica | Cementerio | Biblioteca 
----------|---------------|----------------------|--------------|-------------|---------|------------|------------
- 1       | 1             | 1                    | 1            | 1           | 1       | 1          | 1           
+     | Cantera | Sala de Mapas | Fuente de los Deseos | Observatorio | Laboratorio | Fábrica(A) | Cementerio | Biblioteca 
+-----|---------|---------------|----------------------|--------------|-------------|------------|------------|------------
+pts. | 5       | 5             | 5                    | 5            | 5           | 5          | 5
+qty. | 1       | 1             | 1                    | 1            | 1           | 1          | 1          | 1           
 
 
- Escuela de Magia | Sala de Baile | Parque | Hospital | Gran Muralla | Sala del Trono | Puerta Dragón | Universidad
-------------------|---------------|--------|----------|--------------|----------------|---------------|-------------
- 1                | 1             | 1      | 1        | 1            | 1              | 1             | 1
- 
- 
+     | Escuela de Magia | Sala de Baile | Parque | Hospital | Gran Muralla | Sala del Trono | Puerta Dragón | Universidad
+-----|------------------|---------------|--------|----------|--------------|----------------|---------------|-------------
+pts. |
+qty. | 1                | 1             | 1      | 1        | 1            | 1              | 1             | 1
+     | Fabrica (B)
+-----|---------
+pts. | 5
+qty. | 1
  [4]: PERSONAJES.md#rey
  [5]: PERSONAJES.md#obispo
  [6]: PERSONAJES.md#mercader
