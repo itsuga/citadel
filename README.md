@@ -22,13 +22,13 @@ Estas cartas representan los distintos Distritos que puedes añadir a tu ciudad.
 - Para poder poner una carta de Distrito en juego, debes pagar su coste en monedas de oro.
 - Cada carta de Distrito tiene además un color en la esquina inferior izquierda, que te dice que tipo de Distrito es:
 
-Color	 | Tipo
------------|-------
-Amarillo   | Noble (proporciona ingresos al Rey y Emperador)
-Azul       | Eclesiástico (proporciona ingresos al Obispo y Abad)
-Verde      | Comercial (proporciona ingresos al Mercader)
-Rojo       | Militar (proporciona ingresos al Condotiero y Diplomático)
-Púrpura    | Especial (proporciona beneficios especiales, indicados en la carta)
+Color	                           | Tipo
+-------------------------------------|-----------------------------------------------------------------
+[Amarillo](DISTRITOS.md#amarillos)   | Noble _proporciona ingresos al [Rey](PERSONAJES.md#rey) y [Emperador](PERSONAJES.md#emperador)_
+[Azul](DISTRITOS.md#azules)          | Eclesiástico _proporciona ingresos al [Obispo](PERSONAJES.md#obispo) y [Abad](PERSONAJES.md#abad)_
+[Verde](DISTRITOS.md#verdes)         | Comercial _proporciona ingresos al [Mercader](PERSONAJES.md#mercader)_
+[Rojo](DISTRITOS.md#rojos)           | Militar _proporciona ingresos al [Condotiero](PERSONAJES.md#condotiero) y [Diplomático](PERSONAJES.md#diplomatico)_
+[Púrpura](DISTRITOS.md#purpuras)     | Especial _proporciona beneficios especiales, indicados en la carta_
 
 
 [Cartas de Personajes](PERSONAJES.md)
