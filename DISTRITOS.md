@@ -1,12 +1,12 @@
 Lista de Distritos
 ==================
-Color                                | Tipo
--------------------------------------|-----------------------------------------------------------------
-[Amarillo](DISTRITOS.md#amarillos)   | Noble _proporciona ingresos al [Rey](PERSONAJES.md#rey) y [Emperador](PERSONAJES.md#emperador)_
-[Azul](DISTRITOS.md#azules)          | Eclesiástico _proporciona ingresos al [Obispo](PERSONAJES.md#obispo) y [Abad](PERSONAJES.md#abad)_
-[Verde](DISTRITOS.md#verdes)         | Comercial _proporciona ingresos al [Mercader](PERSONAJES.md#mercader)_
-[Rojo](DISTRITOS.md#rojos)           | Militar _proporciona ingresos al [Condotiero](PERSONAJES.md#condotiero) y [Diplomático](PERSONAJES.md#diplomatico)_
-[Púrpura](DISTRITOS.md#purpuras)     | Especial _proporciona beneficios especiales, indicados en la carta_
+Color                                | Categoria    | .
+-------------------------------------|--------------|---------------------------------------------------
+[Amarillo](DISTRITOS.md#amarillos)   | Noble        | proporciona ingresos al [Rey](PERSONAJES.md#rey) y [Emperador](PERSONAJES.md#emperador)
+[Azul](DISTRITOS.md#azules)          | Eclesiástico | proporciona ingresos al [Obispo](PERSONAJES.md#obispo) y [Abad](PERSONAJES.md#abad)
+[Verde](DISTRITOS.md#verdes)         | Comercial    | proporciona ingresos al [Mercader](PERSONAJES.md#mercader)
+[Rojo](DISTRITOS.md#rojos)           | Militar      | proporciona ingresos al [Condotiero](PERSONAJES.md#condotiero) y [Diplomático](PERSONAJES.md#diplomatico)
+[Púrpura](DISTRITOS.md#púrpuras)     | Especial     | proporciona beneficios especiales, indicados en la carta
 
 Nombre, <del>debajo la imagen</del>  y debajo el número de puntos y apariciones del distrito en un mazo normal.
 
