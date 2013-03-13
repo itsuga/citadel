@@ -20,6 +20,7 @@ Uno de los jugadores, escogido al azar, tendrá la carta de Corona.
 Las cartas de Personajes:
 -------------------------
 Las ocho cartas de Personaje son:
+
 1. [El Asesino](PERSONAJES.md#asesino)
 2. [El Ladrón](PERSONAJES.md#ladron)
 3. [El Mago](PERSONAJES.md#mago)
@@ -52,7 +53,8 @@ Los jugadores en sentido de las agujas del reloj, escogen una carta de Personaje
 
 Cada jugador tendrá su turno posteriormente, en el orden de los números de los Personajes.
 
-1. __Elección de los Personajes__
+1. ### Elección de los Personajes
+
 	Las ocho cartas de Personajes se barajan bocabajo. 
 
 	Luego se descarta un cierto número de cartas, tanto bocabajo como bocarriba, que no serán utilizadas en esta ronda.
@@ -69,7 +71,8 @@ Cada jugador tendrá su turno posteriormente, en el orden de los números de los
 
 	Cuando el último jugador escoja una de las dos últimas cartas, coloca la carta restante, bocabajo, con las cartas descartadas al principio del turno.
 
-2. __El turno de los jugadores__
+2. ### El turno de los jugadores
+
 	Se irá nombrando a los Personajes, en el ordern de sus números. Cada vez que un Personaje es nombrado, el jugador que lo escogió revela su carta de Personaje, juega su turno y deja su carta de Personaje con el resto de las descartadas.
 
 	Si ningún jugador escogió el Personaje nombrado, se nombrará al siguiente personaje.
